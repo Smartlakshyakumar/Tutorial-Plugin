@@ -1,0 +1,7 @@
+name: Tutorial
+version: 1.0
+author: lakshya
+main: com.lakshya.tutorial.Tutorial
+api-version: 1.14
+depend: []
+
